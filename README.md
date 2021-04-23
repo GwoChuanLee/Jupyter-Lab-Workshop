@@ -1,5 +1,4 @@
 # Jupyter-Lab主機: jupyter.csie.nuu.edu.tw
-資工新建 JupyterLab 主機開放使用中
 
 # (一) yolov3/Darknet 安裝介紹
 開啟 terminal
